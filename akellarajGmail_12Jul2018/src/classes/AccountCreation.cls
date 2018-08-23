@@ -1,8 +1,13 @@
 //Added comment before commit3
 //Added one more comment
 //For ignore 2
+<<<<<<< HEAD
 //For ignore 4 
 //For getback4
+=======
+//For ignore 5
+//For getback
+>>>>>>> refs/heads/getBack
 public class AccountCreation {
     public set<string> fetchAccPhone(string s){
         list<string> p1 = new list<string>();
